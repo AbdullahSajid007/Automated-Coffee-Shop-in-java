@@ -1,4 +1,4 @@
-# Automated Coffee Shop Management System
+# Automated Coffee Shop Management System(CSE110 project)
 
 The **Automated Coffee Shop Management System** is a Java-based console application designed to streamline the management of a coffee shop. This system caters to two main users: the **Admin (Shop Owner)** and **Customers**, offering functionalities to automate routine operations while ensuring data persistence through file handling.  
 
@@ -117,7 +117,8 @@ Stores and displays shop information like name, address, and contact details.
 ## Future Enhancements
 - Introduce a graphical user interface (GUI) for better usability.  
 - Add support for discount codes and loyalty programs.  
-- Integrate with a database for scalable data management.  
+- Integrate with a database for scalable data management.
+- Make the system more efficient
 
 ---
 
